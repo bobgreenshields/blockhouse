@@ -1,32 +1,36 @@
-- mob: Klarg
+- mob: a
+  area: 1
+  notes: "chatting"
+
+- mob: b
+  area: 2
+  notes: "Hiding on the ceiling"
+
+- mob: c
+  area: 2
+  notes: "Still inside its egg"
+
+- mob: d
+  area: 2
+  notes: "Cocooned at C"
+
+- mob: draenog
+  area: 4
+  notes: "Bullying the goblins"
+
+- mob: e
+  area: 4
+  notes: "Chatting around fire, not alert"
+
+- mob: f
+  area: 5
+  notes: ""
+
+- mob: klarg
   area: 1
   notes: "Commanding"
 
-- mob: Draenog
-  area: "4"
-  notes: "Bullying the goblins"
-
-- mob: A
+- mob: o
   area: 1
   notes: "chatting"
-
-- mob: O
-  area: 1
-  notes: "chatting"
-
-- mob: B
-  area: "2"
-  notes: "Hiding on the ceiling"
-
-- mob: C
-  area: "2"
-  notes: "Still inside its egg"
-
-- mob: D
-  area: "2"
-  notes: Cocooned at C
-
-- mob: E
-  area: "4"
-  notes: "Chatting around fire, not alert"
 
